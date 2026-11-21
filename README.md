@@ -12,7 +12,7 @@ This collection investigates those questions through numerical experiments and v
 | --- | --- | --- |
 | [Collatz sequences](collatz/collatz.py) | How do ordinary iteration and grouping divisions by two compare? | Recursive iteration, descent times, least-squares fits, empirical tails |
 | [Digits of pi](pi_digits/digits_of_pi.py) | How do digit frequencies and repeated-digit patterns compare with random digits? | Histograms, relative entropy, random guessing, position classes |
-| [Random graph spectra](random_graphs/) | How do adjacency eigenvalues change with graph size and edge density? | ErdÃ…â€˜sÃ¢â‚¬â€œRÃƒÂ©nyi models, matrix centering, numerical eigenvalues |
+| [Random graph spectra](random_graphs/) | How do adjacency eigenvalues change with graph size and edge density? | Erdos-Renyi models, matrix centering, numerical eigenvalues |
 | [Pythagorean triples](pythagorean_triples/pythagorean_triples.py) | Which legs and hypotenuses occur in a bounded search? | Enumeration, primitive triples, greatest common divisors |
 | [Sums of two squares](two_squares/) | How does prime factorization relate to representability and multiplicity? | Modular arithmetic, factorization, lattice-point enumeration |
 | [Logistic map](logistic_map/bifurcations.py) | How does an orbit change with its parameter and initial condition? | Discrete dynamics, interactive sliders |
